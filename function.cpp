@@ -31,4 +31,5 @@ int checkNum()
 		cout << "You made " << j << " guesses\n";
 	}
 	return (0);
+	system("pause");
 }
